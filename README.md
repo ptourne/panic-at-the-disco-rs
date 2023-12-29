@@ -1,4 +1,4 @@
-# Panic! At The Disco - Rust
+# `panic!("at the disco")` - Rust
 
 This crate is a simple panic handler that plays the song "Hey Look Ma, I Made It!" and prints `🎩 Hey Look Ma, I Made It! 🕺` to the console before panicking.
 
@@ -25,6 +25,10 @@ fn main() {
     panic!("Oh no!");
 }
 ```
+
+# Repo
+
+This crate is available on Github at [https://github.com/ptourne/panic-at-the-disco-rs](https://github.com/ptourne/panic-at-the-disco-rs)
 
 # Disclaimer
 

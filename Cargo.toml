@@ -2,6 +2,13 @@
 name = "panic-at-the-disco-rs"
 version = "1.0.0"
 edition = "2021"
+authors = ["Patricio Tourne Passarino"]
+description = "This is a meme crate that plays the song \"Hey Look Ma, I Made It!\" and prints \"🎩 Hey Look Ma, I Made It! 🕺\" to the console before panicking."
+readme = "README.md"
+license = "WTFPL"
+license-file = "LICENSE.txt"
+repository = "https://github.com/ptourne/panic-at-the-disco-rs"
+keywords = ["meme", "joke"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
